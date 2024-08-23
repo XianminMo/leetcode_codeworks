@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7994f896-c7ea-47e0-ae1f-9cd2e408f61e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID202HappyNumber .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID242ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID349IntersectionOfTwoArrays .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID454FourSumIi .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID202HappyNumber .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID242ValidAnagram .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID349IntersectionOfTwoArrays .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID454FourSumIi .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID15ThreeSum .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID383RansomNote .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID15ThreeSum .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID383RansomNote .md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/MXM/git-repository/leetcode_codeworks",
+    "last_opened_file_path": "E:/MXM/git-repository/CS61B/CS61B-Spring2024/proj2b",
     "settings.editor.selected.configurable": "leetcode.id"
   }
 }]]></component>
