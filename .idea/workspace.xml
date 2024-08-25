@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d298781-8013-402d-8583-e198bfa5f47b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID142LinkedListCycleIi .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID15ThreeSum .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID160IntersectionOfTwoLinkedLists .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID19RemoveNthNodeFromEndOfList .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID202HappyNumber .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID203RemoveLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID206ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID242ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID24SwapNodesInPairs .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID349IntersectionOfTwoArrays .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID383RansomNote .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID454FourSumIi .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID48RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID679Two4Game .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID707DesignLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID142LinkedListCycleIi .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID15ThreeSum .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID160IntersectionOfTwoLinkedLists .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID19RemoveNthNodeFromEndOfList .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID202HappyNumber .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID203RemoveLinkedListElements .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID206ReverseLinkedList .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID242ValidAnagram .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID24SwapNodesInPairs .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID349IntersectionOfTwoArrays .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID383RansomNote .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID454FourSumIi .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID48RotateImage .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID49GroupAnagrams .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID679Two4Game .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID707DesignLinkedList .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/note/ID142LinkedListCycleIi .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/note/ID160IntersectionOfTwoLinkedLists .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/solution/48-xuan-zhuan-tu-xiang-fu-zhu-ju-zhen-yu-jobi.lcv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/submission/ID160IntersectionOfTwoLinkedLists 354962360.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID18FourSum .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID18FourSum .java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,23 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ID1TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ID203RemoveLinkedListElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ID24SwapNodesInPairs.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-    &quot;last_opened_file_path&quot;: &quot;G:/leetcode_codeworks&quot;,
-=======
-    &quot;last_opened_file_path&quot;: &quot;E:/MXM/git-repository/CS61B/CS61B-Spring2024/proj2b&quot;,
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 38e48f6f0d85827daa0fff9cbc4ed50a259db040
-    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/CS61B-SP24/CS61B-Spring2024/proj2c",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="leetcode.editor.cn" />
@@ -144,13 +101,24 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7994f896-c7ea-47e0-ae1f-9cd2e408f61e" name="Changes" comment="" />
+      <changelist id="4d298781-8013-402d-8583-e198bfa5f47b" name="Changes" comment="" />
       <created>1723778291089</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723778291089</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
