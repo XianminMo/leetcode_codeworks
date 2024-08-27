@@ -3,15 +3,19 @@ package leetcode.editor.cn;
 import leetcode.editor.util.ListNode;
 
 import java.util.*;
-public class ID24SwapNodesInPairs{
+public class ID24SwapNodesInPairs {
 	public static void main(String[] args) {
 		Solution solution = new ID24SwapNodesInPairs().new Solution();
 		StringBuilder sb = new StringBuilder();
-		
+
 		//执行测试
-		
-		System.out.println(sb);		
+
+		System.out.println(sb);
 	}
+
+	private class Solution {
+	}
+}
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for singly-linked list.

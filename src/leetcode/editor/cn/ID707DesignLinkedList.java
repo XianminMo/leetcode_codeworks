@@ -1,14 +1,14 @@
 package leetcode.editor.cn;
 
 public class ID707DesignLinkedList {
-	public static void main(String[] args) {
-		Solution solution = new ID707DesignLinkedList().new Solution();
-		StringBuilder sb = new StringBuilder();
-		
-		//执行测试
-		
-		System.out.println(sb);		
-	}
+    public static void main(String[] args) {
+        StringBuilder sb = new StringBuilder();
+
+        //执行测试
+
+        System.out.println(sb);
+    }
+}
 //leetcode submit region begin(Prohibit modification and deletion)
 class MyLinkedList {
     private class Node {
@@ -97,4 +97,3 @@ class MyLinkedList {
  */
 //leetcode submit region end(Prohibit modification and deletion)
 
-}
