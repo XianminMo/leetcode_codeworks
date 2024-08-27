@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f3231c2-e07a-4510-b4f3-c62f9bb05323" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID151ReverseWordsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID151ReverseWordsInAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,20 @@
       <recent name="leetcode.editor.cn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ID541ReverseStringIi">
+  <component name="RunManager" selected="Application.ID151ReverseWordsInAString">
+    <configuration name="ID151ReverseWordsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.ID151ReverseWordsInAString" />
+      <module name="leetcode_codeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ID1TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.ID1TwoSum" />
       <module name="leetcode_codeworks" />
@@ -99,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ID151ReverseWordsInAString" />
         <item itemvalue="Application.ID24SwapNodesInPairs" />
         <item itemvalue="Application.ID203RemoveLinkedListElements" />
         <item itemvalue="Application.ID1TwoSum" />
@@ -137,6 +152,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/ID541ReverseStringIi.java</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/ID151ReverseWordsInAString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

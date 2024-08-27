@@ -7,7 +7,7 @@ public class ID151ReverseWordsInAString{
 		StringBuilder sb = new StringBuilder();
 		
 		//执行测试
-		String s = " the sky is blue ";
+		String s = " the sky is blue";
 		String result = solution.reverseWords(s);
 		
 		System.out.println(sb);		
@@ -25,9 +25,14 @@ class Solution {
 	private char[] reverseEachWords(char[] charS) {
 		int start = 0;
 		for (int i = 0; i < charS.length; i++) {
+			// 若碰到一个空格，则反转空格之前的单词
 			if (charS[i] == ' ') {
 				reverse(charS, start, i - 1);
 				start = i + 1;
+			}
+			// 若到结尾了，则反转最后一个单词
+			if (i == charS.length -1) {
+				reverse(charS, start, i);
 			}
 		}
 		return charS;
@@ -42,11 +47,21 @@ class Solution {
 				if (slow != 0) {
 					charS[slow++] = ' ';
 				}
-				charS[slow++] = charS[fast];
+				// 将这个单词添加进去
+				while (charS[fast] != ' ') {
+					charS[slow++] = charS[fast++];
+					// 若fast++后指到数组外面，则跳出循环
+					if (fast == charS.length) {
+						break;
+					}
+				}
 			}
 		}
+		// 将去掉空格后的数组取出
+		char[] result = new char[slow];
+		System.arraycopy(charS, 0, result, 0, slow);
 
-		return charS;
+		return result;
 	}
 
 	private char[] reverse(char[] charS, int start, int end) {
