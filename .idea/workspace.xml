@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d298781-8013-402d-8583-e198bfa5f47b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID541ReverseStringIi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID541ReverseStringIi .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID142LinkedListCycleIi .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID142LinkedListCycleIi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID15ThreeSum .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID15ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID160IntersectionOfTwoLinkedLists .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID160IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID18FourSum .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID18FourSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID19RemoveNthNodeFromEndOfList .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID19RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID202HappyNumber .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID202HappyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID24SwapNodesInPairs .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID24SwapNodesInPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID349IntersectionOfTwoArrays .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID349IntersectionOfTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID383RansomNote .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID383RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID454FourSumIi .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID454FourSumIi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID679Two4Game .java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID707DesignLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID707DesignLinkedList.java" afterDir="false" />
-    </list>
+    <list default="true" id="4d298781-8013-402d-8583-e198bfa5f47b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
