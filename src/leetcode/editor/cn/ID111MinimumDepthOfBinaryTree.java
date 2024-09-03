@@ -1,10 +1,11 @@
 package leetcode.editor.cn;
 
-import javax.swing.tree.TreeNode;
+import leetcode.editor.util.TreeNode;
+
 import java.util.*;
-public class ID102BinaryTreeLevelOrderTraversal{
+public class ID111MinimumDepthOfBinaryTree{
 	public static void main(String[] args) {
-		Solution solution = new ID102BinaryTreeLevelOrderTraversal().new Solution();
+		Solution solution = new ID111MinimumDepthOfBinaryTree().new Solution();
 		StringBuilder sb = new StringBuilder();
 		
 		//执行测试
@@ -28,9 +29,19 @@ public class ID102BinaryTreeLevelOrderTraversal{
  * }
  */
 class Solution {
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    public int minDepth(TreeNode root) {
+		if (root == null) {
+			return 0;
+		}
 
-    }
+		if (root.left == null) {
+			return minDepth(root.right) + 1;
+		} else if (root.right == null) {
+			return minDepth(root.left) + 1;
+		} else {
+			return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
+		}
+	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
