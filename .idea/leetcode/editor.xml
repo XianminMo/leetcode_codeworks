@@ -333,6 +333,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID235LowestCommonAncestorOfABinarySearchTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID235LowestCommonAncestorOfABinarySearchTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn235" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID235LowestCommonAncestorOfABinarySearchTree .java" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID236LowestCommonAncestorOfABinaryTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID236LowestCommonAncestorOfABinaryTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn236" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID236LowestCommonAncestorOfABinaryTree .java" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID239SlidingWindowMaximum .java">
           <value>
             <LeetcodeEditor>
@@ -443,6 +465,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID450DeleteNodeInABst .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID450DeleteNodeInABst .md" />
+              <option name="frontendQuestionId" value="leetcode.cn450" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID450DeleteNodeInABst .java" />
+              <option name="titleSlug" value="delete-node-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID454FourSumIi .java">
           <value>
             <LeetcodeEditor>
@@ -487,6 +520,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID501FindModeInBinarySearchTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID501FindModeInBinarySearchTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn501" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID501FindModeInBinarySearchTree .java" />
+              <option name="titleSlug" value="find-mode-in-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID513FindBottomLeftTreeValue .java">
           <value>
             <LeetcodeEditor>
@@ -506,6 +550,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID515FindLargestValueInEachTreeRow .java" />
               <option name="titleSlug" value="find-largest-value-in-each-tree-row" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID530MinimumAbsoluteDifferenceInBst .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID530MinimumAbsoluteDifferenceInBst .md" />
+              <option name="frontendQuestionId" value="leetcode.cn530" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID530MinimumAbsoluteDifferenceInBst .java" />
+              <option name="titleSlug" value="minimum-absolute-difference-in-bst" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -586,6 +641,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID701InsertIntoABinarySearchTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID701InsertIntoABinarySearchTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn701" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID701InsertIntoABinarySearchTree .java" />
+              <option name="titleSlug" value="insert-into-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID707DesignLinkedList .java">
           <value>
             <LeetcodeEditor>
@@ -594,6 +660,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID707DesignLinkedList .java" />
               <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ID98ValidateBinarySearchTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID98ValidateBinarySearchTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn98" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ID98ValidateBinarySearchTree .java" />
+              <option name="titleSlug" value="validate-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>

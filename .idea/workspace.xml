@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2095dede-35a2-44c4-8eb3-300a9468e2db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID617MergeTwoBinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID654MaximumBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID700SearchInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID617MergeTwoBinaryTrees .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID654MaximumBinaryTree .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID700SearchInABinarySearchTree .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID235LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID450DeleteNodeInABst .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID701InsertIntoABinarySearchTree .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID235LowestCommonAncestorOfABinarySearchTree .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID450DeleteNodeInABst .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ID701InsertIntoABinarySearchTree .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/ID236LowestCommonAncestorOfABinaryTree .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/ID236LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ID459RepeatedSubstringPattern.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/MXM/git-repository/CS61B/BYOW&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ID459RepeatedSubstringPattern.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/MXM/git-repository/CS61B/CS61B-Spring2024/lab07",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="leetcode.editor.cn" />
