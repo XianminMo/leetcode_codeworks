@@ -1,5 +1,6 @@
 package leetcode.editor.cn;
 
+import leetcode.editor.util.Node;
 import leetcode.editor.util.TreeNode;
 
 import java.util.*;

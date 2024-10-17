@@ -3,7 +3,7 @@ package leetcode.editor.cn;
 import java.util.*;
 public class ID225ImplementStackUsingQueues{
 	public static void main(String[] args) {
-		Solution solution = new ID225ImplementStackUsingQueues().new Solution();
+//		Solution solution = new ID225ImplementStackUsingQueues().new Solution();
 		StringBuilder sb = new StringBuilder();
 		
 		//执行测试

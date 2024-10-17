@@ -3,7 +3,7 @@ package leetcode.editor.cn;
 import java.util.*;
 public class ID232ImplementQueueUsingStacks{
 	public static void main(String[] args) {
-		Solution solution = new ID232ImplementQueueUsingStacks().new Solution();
+//		Solution solution = new ID232ImplementQueueUsingStacks().new Solution();
 		StringBuilder sb = new StringBuilder();
 		
 		//执行测试
