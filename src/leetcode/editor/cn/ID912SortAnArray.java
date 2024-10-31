@@ -16,46 +16,47 @@ public class ID912SortAnArray {
 		private static final int INSERTION_SORT_THRESHOLD = 7;
 		public int[] sortArray(int[] nums) {
 			int len = nums.length;
-			int[] temp = new int[len];
-			mergeSort(nums, 0, len - 1, temp);
+			quikSort(nums, 0, len - 1);
 			return nums;
 		}
 
-		private void mergeSort(int[] nums, int left, int right, int[] temp) {
+		private void quikSort(int[] nums, int left, int right) {
 			if (right - left <= INSERTION_SORT_THRESHOLD) {
 				insertSort(nums, left, right);
 				return;
 			}
-			int mid = (right + left) >>> 1;
-			mergeSort(nums, left, mid, temp);
-			mergeSort(nums, mid + 1, right, temp);
 
-			if (nums[mid] <= nums[mid + 1]) {
-				return;
-			}
+			int randomIndex = new Random().nextInt(right - left + 1) + left;
+			swap(nums, left, randomIndex);
 
-			mergeTwoSortedArray(nums, left, right, mid, temp);
-		}
+			int pivot = nums[left];
+			int lt = left;
+			int gt = right + 1;
+			int i = left + 1;
 
-		private void mergeTwoSortedArray(int[] nums, int left, int right, int mid, int[] temp) {
-			System.arraycopy(nums, left, temp, left, right - left + 1);
-			int i = left;
-			int j = mid + 1;
-			for (int k = left; k <= right; k++) {
-				if (i == mid + 1) {
-					nums[k] = temp[j];
-					j++;
-				} else if (j == right + 1) {
-					nums[k] = temp[i];
+			while (i < gt) {
+				if (nums[i] < pivot) {
+					lt++;
+					swap(nums, i, lt);
 					i++;
-				} else if (temp[i] <= temp[j]) {
-					nums[k] = temp[i];
+				} else if (nums[i] == pivot) {
 					i++;
-				} else { // temp[i] > temp[j]
-					nums[k] = temp[j];
-					j++;
+				} else {
+					gt--;
+					swap(nums, i, gt);
 				}
 			}
+			swap(nums, left, lt);
+
+			quikSort(nums, left, lt);
+			quikSort(nums, gt, right);
+		}
+
+
+		private void swap(int[] nums, int i, int j) {
+			int tmp = nums[i];
+			nums[i] = nums[j];
+			nums[j] = tmp;
 		}
 
 		private void insertSort(int[] nums, int left, int right) {
